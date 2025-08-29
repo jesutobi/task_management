@@ -1,10 +1,12 @@
 Task Management Web Application
 
-<!-- This a simple task management application built with Vue 3 (Composition API) and Laravel 12 backend. Users can create projects, add tasks, organize them by projects, and reorder tasks via drag-and-drop . -->
+This a simple task management application built with Vue 3 (Composition API) and Laravel 12 backend. Users can create projects, add tasks, organize them by projects, and reorder tasks via drag-and-drop . 
+
+
 
 Features
 
-<!-- Create, edit, and delete tasks
+Create, edit, and delete tasks
 
 Create and manage projects
 
@@ -12,19 +14,23 @@ Tasks can belong to a project or exist independently
 
 Drag-and-drop task reordering (priority saved in database)
 
-Responsive UI with Tailwind CSS  -->
+Responsive UI with Tailwind CSS 
+
+
 
 Technologies Used
 
-<!-- Frontend: Vue 3, Composition API, Vite, Tailwind CSS, vuedraggable
+Frontend: Vue 3, Composition API, Vite, Tailwind CSS, vuedraggable
 
 Backend: Laravel 12, MySQL
 
-HTTP Client: Axios -->
+HTTP Client: Axios
+
+
 
 Setup Instructions
 
-<!-- 1. Clone the repository
+1. Clone the repository
    git clone https://github.com/jesutobi/task-manager.git
    cd task-manager
 
@@ -57,7 +63,7 @@ DB_PASSWORD=
    php artisan serve unless laravel wont run
 
 7. Run the Frontend Development Server
-   npm run dev -->
+   npm run dev
 
 Build the frontend:
 
