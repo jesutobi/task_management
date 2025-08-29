@@ -31,7 +31,7 @@ HTTP Client: Axios
 Setup Instructions
 
 1. Clone the repository
-   git clone https://github.com/jesutobi/task-manager.git
+   git clone https://github.com/jesutobi/task_management.git
    cd task-manager
 
 2. Install Backend Dependencies
